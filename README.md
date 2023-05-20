@@ -5,8 +5,9 @@ A new Flutter project.
 ## Getting Started
 This is a Dice Roll application. By clicking on the "Roll Dice" button, the application will randomly change the dice number and display the dice with the correct number.
 
-![Screenshot_20230520_![Screenshot_20230520_174339](https://github.com/gopikarp/DiceApp/assets/100861026/dc82942b-98a6-4d38-b69d-1415edaa41e4)
-174441](https://github.com/gopikarp/DiceApp/assets/100861026/2269b8c2-6009-4a6b-ab01-2bcd7a102d82)
+
+![Screenshot_20230520_174441](https://github.com/gopikarp/DiceApp/assets/100861026/af7dbc05-b625-4e00-be57-f02ed983d8df)
+![Screenshot_20230520_174339](https://github.com/gopikarp/DiceApp/assets/100861026/57898477-fc31-46e1-a988-9cbb0fc2fe09)
 
 
 For help getting started with Flutter development, view the
